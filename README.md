@@ -6,7 +6,7 @@ In this project we use 2 APIs, from two very famous sites, [OMDb](http://www.omd
 
 ## OMDb API
 
-We use the [Open Movie Database](http://www.omdbapi.com/) for searching for movies of similar genre. We find a way to store this data locally in Python.
+We use the [Open Movie Database](http://www.omdbapi.com/) for searching for movies of similar genre. We find a way to store this data locally in Python. The rules to access the API can be found on this [link](https://tastedive.com/api/similar).
 
 ## Rotten Tomatoes API
 
