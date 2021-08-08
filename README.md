@@ -17,4 +17,4 @@ We do not want to recommend the user just similar movies, we want to offer him o
 The program gives an output of 5 movies similar to the one which the customer inputs sorted from the highest to the lowest rating!
 
 #### P.S.
-The API access requires keys, which have been starred out. You are requested you to enter your key to get the program working.
+The API access requires keys, which have been starred out. You will need to enter your key to get the program working.
